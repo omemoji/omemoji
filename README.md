@@ -4,9 +4,9 @@
 
 ## Profile
 
-筑波大学情報学群情報科学類(coins20)
+A student of College of Information Science(coins20.)
 
-Web系の技術と絵に興味があります。
+I'm interested in Web engineering and painting pictures.
 
 ## OS
 
