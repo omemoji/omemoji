@@ -4,7 +4,9 @@
 
 ## Profile
 
-A student of College of Information Science (coins20.)
+筑波大学情報学群情報科学類(coins20)
+
+Web系の技術と絵に興味があります。
 
 ## OS
 
@@ -12,13 +14,11 @@ A student of College of Information Science (coins20.)
 
 ## Creativity
 
-<img src="https://img.shields.io/badge/Inkscape-ffffff.svg?logo=Inkscape&logoColor=black&style=flat">
-<img src="https://img.shields.io/badge/Krita-ff1088.svg?logo=Krita&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Inkscape-ffffff.svg?logo=Inkscape&logoColor=black&style=flat"> <img src="https://img.shields.io/badge/Krita-ff1088.svg?logo=Krita&logoColor=white&style=flat">
 
 ## Skill (learning)
 
-<img src="https://img.shields.io/badge/Nuxt.js-ffffff.svg?logo=Nuxt.js&logoColor=#00DC82&style=flat">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=ffffff&style=flat">
+<img src="https://img.shields.io/badge/Nuxt.js-ffffff.svg?logo=Nuxt.js&logoColor=#00DC82&style=flat"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=ffffff&style=flat">
 
 ## Link
 
