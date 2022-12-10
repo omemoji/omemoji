@@ -4,7 +4,7 @@
 
 ## Profile
 
-|           |                                    |
+| key       | val                                |
 | --------- | ---------------------------------- |
 | Name      | omemoji                            |
 | Education | student (University of Tsukuba)    |
