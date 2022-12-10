@@ -4,12 +4,10 @@
 
 ## Profile
 
-| key        | val                                |
-| ---------- | ---------------------------------- |
-| Name:      | omemoji                            |
-| Education: | student (University of Tsukuba)    |
-| Interest:  | 🌐Web , 🎨Painting                 |
-| Homepage:  | [omemoji.dev](https://omemoji.dev) |
+- Name: omemoji
+- Education: University of Tsukuba
+- Interest: 🌐Web , 🎨Painting
+- Homepage: [omemoji.dev](https://omemoji.dev)
 
 ## Stats
 
