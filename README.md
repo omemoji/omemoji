@@ -19,15 +19,15 @@
 
 [<img src="https://img.shields.io/badge/OS-Ubuntu-E95420.svg?logo=ubuntu&logoColor=E95420&style=flat">](https://ubuntu.com/)
 
-[<img src="https://img.shields.io/badge/DE-i3-fff.svg?&style=flat">](https://i3wm.org/)
+[<img src="https://img.shields.io/badge/DE-i3-7ca7c2.svg?&style=flat">](https://i3wm.org/)
 
-[<img src="https://img.shields.io/badge/Browser-Google Chrome-fff.svg?logo=googlechrome&logoColor=fff&style=flat">](https://www.google.com/intl/en_us/chrome/)
+[<img src="https://img.shields.io/badge/Browser-Google Chrome-4285F4.svg?logo=googlechrome&logoColor=fff&style=flat">](https://www.google.com/intl/en_us/chrome/)
 
-[<img src="https://img.shields.io/badge/Editor-Visual Studio Code-0078d7.svg?logo=visualstudiocode&logoColor=0078d7&style=flat">](https://code.visualstudio.com/)
+[<img src="https://img.shields.io/badge/Editor-Visual Studio Code-007ACC.svg?logo=visualstudiocode&logoColor=007ACC&style=flat">](https://code.visualstudio.com/)
 
 [<img src="https://img.shields.io/badge/Vector Graphics Editor-Inkscape-000.svg?logo=inkscape&logoColor=000&style=flat">](https://inkscape.org)
 
-[<img src="https://img.shields.io/badge/Paint Tool-Krita-ff11aa.svg?logo=krita&logoColor=ff11aa&style=flat">](https://krita.org)
+[<img src="https://img.shields.io/badge/Paint Tool-Krita-3BABFF.svg?logo=krita&logoColor=3BABFF&style=flat">](https://krita.org)
 
 ## Link
 
@@ -36,4 +36,4 @@
 <a href="https://inkscape.org/~omemoji/"><img src="https://img.shields.io/badge/Inkscape-omemoji-000000.svg?logo=Inkscape&logoColor=white&style=flat"></a>
 <a href="https://krita-artists.org/u/omemoji/summary">
 
-<img src="https://img.shields.io/badge/Krita-omemoji-ff11aa.svg?logo=Krita&logoColor=white&style=flat"></a>
+<img src="https://img.shields.io/badge/Krita-omemoji-3BABFF.svg?logo=Krita&logoColor=white&style=flat"></a>
