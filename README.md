@@ -7,11 +7,11 @@
 - Name: omemoji
 - Education: University of Tsukuba
 - Interest: 🌐Web , 🎨Painting
-- Homepage: [omemoji.dev](https://omemoji.dev)
+- Homepage: [omemoji.dev](https://omemoji.com)
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=omemoji&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omemoji&show_icons=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&layout=compact)
 
@@ -33,7 +33,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-omemoji_itf-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/omemoji_itf)
 
-<a href="https://inkscape.org/~omemoji/"><img src="https://img.shields.io/badge/Inkscape-omemoji-000000.svg?logo=Inkscape&logoColor=white&style=flat"></a>
-<a href="https://krita-artists.org/u/omemoji/summary">
+[![Inkscape](https://img.shields.io/badge/Inkscape-omemoji-000000.svg?logo=Inkscape&logoColor=white&style=flat)](https://inkscape.org/~omemoji/)
 
-<img src="https://img.shields.io/badge/Krita-omemoji-3BABFF.svg?logo=Krita&logoColor=white&style=flat"></a>
+[![Krita](https://img.shields.io/badge/Krita-omemoji-3BABFF.svg?logo=Krita&logoColor=white&style=flat)](https://krita-artists.org/u/omemoji/summary)
