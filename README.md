@@ -7,7 +7,7 @@
 - Name: omemoji
 - Education: University of Tsukuba
 - Interest: 🌐Web , 🎨Painting
-- Homepage: [omemoji.dev](https://omemoji.com)
+- Homepage: [omemoji.com](https://omemoji.com)
 
 ## Stats
 
