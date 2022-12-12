@@ -35,4 +35,4 @@
 
 [![Inkscape](https://img.shields.io/badge/Inkscape-omemoji-000000.svg?logo=Inkscape&logoColor=white&style=flat)](https://inkscape.org/~omemoji/)
 
-[![Krita](https://img.shields.io/badge/Krita-omemoji-3BABFF.svg?logo=Krita&logoColor=white&style=flat)](https://krita-artists.org/u/omemoji/summary)
+[![Krita](https://img.shields.io/badge/Krita-omemoji-ff1199.svg?logo=Krita&logoColor=white&style=flat)](https://krita-artists.org/u/omemoji/summary)
