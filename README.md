@@ -23,9 +23,3 @@
 [![VSCode](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&logoColor=007ACC&style=flat)](https://code.visualstudio.com/)
 [![Inkscape](https://img.shields.io/badge/Vector%20Graphics%20Editor-Inkscape-000.svg?logo=inkscape&logoColor=000&style=flat)](https://inkscape.org)
 [![Krita](https://img.shields.io/badge/Paint%20Tool-Krita-ff1199.svg?logo=krita&logoColor=ff1199&style=flat)](https://krita.org)
-
-## Link
-
-[![Twitter](https://img.shields.io/badge/Twitter-omemoji_itf-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/omemoji_itf)
-[![Inkscape](https://img.shields.io/badge/Inkscape-omemoji-000000.svg?logo=Inkscape&logoColor=white&style=flat)](https://inkscape.org/~omemoji/)
-[![Krita](https://img.shields.io/badge/Krita-omemoji-ff1199.svg?logo=Krita&logoColor=white&style=flat)](https://krita-artists.org/u/omemoji/summary)
