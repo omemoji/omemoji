@@ -9,6 +9,14 @@
 - Interest: 🌐Web , 🎨Illustration
 - Homepage: [omemoji.com](https://omemoji.com)
 
+## Accounts
+
+- GitHub: [https://github.com/omemoji](https://github.com/omemoji)
+- Twitter: [https://twitter.com/omemoji_itf](https://twitter.com/omemoji_itf)
+- Instagram: [https://instagram.com/omemoji](https://instagram.com/omemoji)
+- Zenn: [https://zenn.dev/omemoji](https://zenn.dev/omemoji)
+- Keybase: [https://keybase.io/omemoji](https://keybase.io/omemoji)
+
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omemoji&show_icons=true)
