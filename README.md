@@ -19,9 +19,9 @@
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omemoji&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact)
 
 ## Env
 
