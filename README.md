@@ -12,7 +12,7 @@
 ## Accounts
 
 - GitHub: [https://github.com/omemoji](https://github.com/omemoji)
-- Twitter: [https://twitter.com/omemoji_itf](https://twitter.com/omemoji_itf)
+- Twitter: [https://twitter.com/omemoji_art](https://twitter.com/omemoji_art)
 - Instagram: [https://instagram.com/omemoji](https://instagram.com/omemoji)
 - Zenn: [https://zenn.dev/omemoji](https://zenn.dev/omemoji)
 - Keybase: [https://keybase.io/omemoji](https://keybase.io/omemoji)
