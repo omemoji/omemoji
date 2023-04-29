@@ -4,10 +4,11 @@
 
 ## Profile
 
-- Name: omemoji
-- Education: University of Tsukuba
-- Interest: 🌐Web , 🎨Illustration
-- Homepage: [omemoji.com](https://omemoji.com)
+| key       | val                             |
+| --------- | ------------------------------- |
+| Name      | **omemoji**                     |
+| Education | student (University of Tsukuba) |
+| Interests | 🌐Web, 🎨Illustration           |
 
 ## Accounts
 
