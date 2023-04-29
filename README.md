@@ -8,7 +8,7 @@
 | --------- | ------------------------------- |
 | Name      | **omemoji**                     |
 | Education | student (University of Tsukuba) |
-| Interests | 🌐Web, 🎨Illustration           |
+| Interest  | 🌐Web, 🎨Illustration           |
 
 ## Accounts
 
