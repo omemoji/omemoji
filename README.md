@@ -12,11 +12,13 @@
 
 ## Accounts
 
-- GitHub: [https://github.com/omemoji](https://github.com/omemoji)
-- Twitter: [https://twitter.com/omemoji_art](https://twitter.com/omemoji_art)
-- Instagram: [https://instagram.com/omemoji](https://instagram.com/omemoji)
-- Zenn: [https://zenn.dev/omemoji](https://zenn.dev/omemoji)
-- Keybase: [https://keybase.io/omemoji](https://keybase.io/omemoji)
+| Account   | ID                                             |
+| --------- | ---------------------------------------------- |
+| GitHub    | [omemoji](https://github.com/omemoji)          |
+| Twitter   | [omemoji_art](https://twitter.com/omemoji_art) |
+| Instagram | [omemoji](https://instagram.com/omemoji)       |
+| Zenn      | [omemoji](https://zenn.dev/omemoji)            |
+| Keybase   | [omemoji](https://keybase.io/omemoji)          |
 
 ## Stats
 
