@@ -1,4 +1,4 @@
-# About
+# omemoji
 
 ![](https://user-images.githubusercontent.com/68148226/206836600-84cfacc6-c2d6-4946-82fe-db48d5838e19.png)
 
@@ -7,18 +7,46 @@
 | key       | val                             |
 | --------- | ------------------------------- |
 | Name      | **omemoji**                     |
+| Region    | 🗼Tokyo, 🇯🇵Japan                |
 | Education | student (University of Tsukuba) |
-| Interest  | 🌐Web, 🎨Illustration           |
+| Interest  | 🌐Web, 🎨Art                    |
 
 ## Accounts
 
-| Account   | ID                                             |
-| --------- | ---------------------------------------------- |
-| GitHub    | [omemoji](https://github.com/omemoji)          |
-| Twitter   | [omemoji_art](https://twitter.com/omemoji_art) |
-| Instagram | [omemoji](https://instagram.com/omemoji)       |
-| Zenn      | [omemoji](https://zenn.dev/omemoji)            |
-| Keybase   | [omemoji](https://keybase.io/omemoji)          |
+| Account   | ID                                                  |
+| --------- | --------------------------------------------------- |
+| GitHub    | [omemoji](https://github.com/omemoji)               |
+| Twitter   | [omemoji_art](https://twitter.com/omemoji_art)      |
+| Instagram | [omemoji](https://instagram.com/omemoji)            |
+| Zenn      | [omemoji](https://zenn.dev/omemoji)                 |
+| Keybase   | [omemoji](https://keybase.io/omemoji)               |
+| Fediverse | [@omemoji@omemoji.net](https://omemoji.net/omemoji) |
+
+## Projects
+
+- [創作物紹介](https://omemoji.com)
+  - この Web サイト
+  - Nuxt + Tailwind CSS で実装
+  - 作品（絵、プログラム）や記事などをまとめたポートフォリオ
+- [Quattro](https://m-18-team1.github.io/tetris/)
+  - 大学の授業でチーム制作の練習として作ったテトリス型のゲーム
+    - PC でプレイする
+  - Vue.js で実装
+  - 通常のテトリスとは異なり、コストを消費して「スキル」を使用することが出来る
+    - 使用出来るスキルは、ゲーム開始前に選択する「職業」によって決まる。例えば「戦士」を選ぶと攻撃的なスキル構成になる一方、「僧侶」の場合は生存重視のスキル構成となる
+- [omemoji.net](https://omemoji.net)
+
+  - Fediverse
+  - [Akkoma](https://akkoma.social/)で建てたおひとりさまインスタンス
+  - その内 Bot を生やすかも知れない
+
+## Qualification
+
+- 実用英語技能検定 準 1 級
+
+## Achievements
+
+- チームラボサマーインターン 2023 に参加
 
 ## Stats
 
