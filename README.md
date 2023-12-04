@@ -1,6 +1,6 @@
 # omemoji
 
-![](https://user-images.githubusercontent.com/68148226/206836600-84cfacc6-c2d6-4946-82fe-db48d5838e19.png)
+![omemoji](https://github.com/omemoji/omemoji.com/assets/68148226/11ebcc2b-a4ce-4c62-a3fc-3f26fae5e7c6)
 
 ## Profile
 
@@ -25,9 +25,12 @@
 ## Projects
 
 - [創作物紹介](https://omemoji.com)
-  - この Web サイト
-  - Nuxt + Tailwind CSS で実装
+
   - 作品（絵、プログラム）や記事などをまとめたポートフォリオ
+  - Next.js + Tailwind CSS で実装
+    - 以前は Nuxt.js で実装していた
+  - Cloudflare Pages でデプロイ
+
 - [Quattro](https://m-18-team1.github.io/tetris/)
   - 大学の授業でチーム制作の練習として作ったテトリス型のゲーム
     - PC でプレイする
