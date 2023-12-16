@@ -36,6 +36,7 @@ https://github.com/omemoji/omemoji.com
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) で markdown から HTML を生成している
 - リンクカード（上のようなカード状のリンク）を実装した
   - [cheerio](https://github.com/cheeriojs/cheerio) でリンク先の metadata を取得している
+  - OGP 画像をビルド時に 最適化して base64 で埋め込むことでパフォーマンスを向上
 
 ### Quattro
 
