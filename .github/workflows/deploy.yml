@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Curl API
-        - run: HOOK=${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOKS }}
-        - run: curl -X POST "$HOOK"
+        run: HOOK=${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOKS }}
+        run: curl -X POST "$HOOK"
