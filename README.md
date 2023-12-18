@@ -73,9 +73,9 @@ https://internship.team-lab.com/
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omemoji&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" width="495" height="195">
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" width="350" height="165">
 
 ## Music
 
