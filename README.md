@@ -1,5 +1,6 @@
 # omemoji
 
+<p align=left>
 <a href="https://voidlinux.org">
 <img alt="Void" src="https://img.shields.io/badge/OS-Void%20Linux-478061.svg?logo=voidlinux&logoColor=ffffff&style=flat"/>
 </a>
@@ -17,9 +18,10 @@
 </a>
 </p>
 
+<div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" height="150">
-
 <img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" height="150">
+</div>
 
 ## Profile
 
