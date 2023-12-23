@@ -1,5 +1,26 @@
 # omemoji
 
+<a href="https://voidlinux.org">
+<img alt="Void" src="https://img.shields.io/badge/OS-Void%20Linux-478061.svg?logo=voidlinux&logoColor=ffffff&style=flat"/>
+</a>
+<a href="https://code.visualstudio.com/">
+<img alt="Void" src="https://img.shields.io/badge/Editor-VSCode-007ACC.svg?logo=visualstudiocode&logoColor=ffffff&style=flat"/>
+</a>
+<a href="https://python.org">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=ffffff&style=flat"/>
+</a>
+<a href="https://typescriptlang.org">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=ffffff&style=flat"/>
+</a>
+<a href="https://nextjs.org">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=ffffff&style=flat"/>
+</a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" height="150">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" height="150">
+
 ## Profile
 
 | key       | val                             |
@@ -36,7 +57,7 @@ https://github.com/omemoji/omemoji.com
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) で markdown から HTML を生成している
 - リンクカード（上のようなカード状のリンク）を実装した
   - [cheerio](https://github.com/cheeriojs/cheerio) でリンク先の metadata を取得している
-  - OGP 画像をビルド時に 最適化して base64 で埋め込むことでパフォーマンスを向上
+  - OGP 画像をビルド時に 最適化して base64 で埋め込み、パフォーマンスを向上させる
 
 ### Quattro
 
@@ -70,12 +91,6 @@ https://internship.team-lab.com/
 ## Qualification
 
 - 実用英語技能検定 準 1 級
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" width="495" height="195">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" width="350" height="165">
 
 ## Music
 
