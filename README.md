@@ -90,6 +90,14 @@ https://internship.team-lab.com/
 - 記事は[こちら](https://omemoji.com/articles/teamlab)
 - フロントエンドエンジニアとして参加
 
+### マイナビ「フルスタック開発プログラム」
+
+https://saiyou-org.www.mynavi.jp/saiyou/news/internship/2725/#development-program
+
+- 記事は[こちら](https://omemoji.com/articles/mynavi_hackathon/)
+- グランプリ受賞
+- インフラ構築、バックエンドやフロントエンド開発を一度に体験することが出来た
+
 ## Qualification
 
 - 実用英語技能検定 準 1 級
