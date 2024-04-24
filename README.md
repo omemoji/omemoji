@@ -92,7 +92,7 @@ https://internship.team-lab.com/
 
 ### マイナビ「フルスタック開発プログラム」
 
-https://saiyou-org.www.mynavi.jp/saiyou/news/internship/2725/#development-program
+https://web.archive.org/web/20230924201001/https://saiyou-org.www.mynavi.jp/saiyou/news/internship/2725
 
 - 記事は[こちら](https://omemoji.com/articles/mynavi_hackathon/)
 - グランプリ受賞
