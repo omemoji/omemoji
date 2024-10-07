@@ -87,7 +87,7 @@ https://omemoji.net/omemoji
 
 https://internship.team-lab.com/
 
-- 記事は[こちら](https://omemoji.com/articles/teamlab)
+- 記事は[こちら](https://omemoji.com/articles/teamlab/)
 - フロントエンドエンジニアとして参加
 
 ### マイナビ「フルスタック開発プログラム」
