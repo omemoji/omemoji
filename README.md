@@ -2,10 +2,8 @@
 
 <p align=left>
 <a href="https://voidlinux.org">
-<img alt="Void" src="https://img.shields.io/badge/OS-Void%20Linux-478061.svg?logo=voidlinux&logoColor=ffffff&style=flat"/>
+<img alt="Void" src="https://img.shields.io/badge/Void%20Linux-478061.svg?logo=voidlinux&logoColor=ffffff&style=flat"/>
 </a>
-<a href="https://code.visualstudio.com/">
-<img alt="Void" src="https://img.shields.io/badge/Editor-VSCode-007ACC.svg?logo=visualstudiocode&logoColor=ffffff&style=flat"/>
 </a>
 <a href="https://python.org">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=ffffff&style=flat"/>
@@ -18,9 +16,8 @@
 </a>
 </p>
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" height="150">
+<div align=left  >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=transparent&layout=compact" alt="Top Languages" style="margin-right:6px;" height="120"><img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=transparent&show_icons=true" alt="GitHub Stats" height="120">
 </div>
 
 ## Profile
@@ -59,17 +56,10 @@ https://github.com/omemoji/omemoji.com
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) で markdown から HTML を生成している
 - リンクカード（上のようなカード状のリンク）を実装した
   - [cheerio](https://github.com/cheeriojs/cheerio) でリンク先の metadata を取得している
-  - OGP 画像をビルド時に 最適化して base64 で埋め込み、パフォーマンスを向上させる
-
-### Quattro
-
-https://github.com/M-18-team1/tetris
-
-- 大学の授業でチーム制作した、テトリスに似た PC ブラウザゲーム
-- Vue.js で実装
-- 通常のテトリスとは異なり、コストを消費して「スキル」を使用することが出来る
-
-  - 使用出来るスキルは、ゲーム開始前に選択する「職業」によって決まる。例えば「戦士」を選ぶと攻撃的なスキル構成になる一方、「僧侶」の場合は生存重視のスキル構成となる
+  - OGP 画像をビルド時に 最適化し、パフォーマンスを向上させる
+- 管理画面を実装し，作品のアップロードを簡単に行えるようにした
+  - データベースは json として管理し，`json-server`を立ち上げて API を叩けるようにしている
+- ハイドレーション用の js（Next.js で SSG を行うと自動的に追加される） を除去し，完全な静的サイトにした
 
 ### omemoji.net
 
