@@ -13,6 +13,18 @@
 <a href="https://twitter.com/omemoji_art" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/omemoji_art?&style=for-the-badge&logo=x" /></a>
 </p>
 
+<div align=left>
+<picture style="margin-right:8px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omemoji&theme=github_dark&show_icons=true" alt="GitHub Stats" >
+<img src="https://github-readme-stats.vercel.app/api?username=omemoji&theme=github&show_icons=true" height=150 alt="Top Languages">
+</picture>
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&theme=github_dark&layout=compact" alt="GitHub Stats" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omemoji&layout=compact&theme=github" height=150 alt="Top Languages">
+</picture>
+
+</div>
+
 <!-- Profile starts -->
 
 ```ts
@@ -28,6 +40,7 @@ const profile = {
   programming: {
     languages: ["TypeScript", "Python"],
     frameworks: ["Astro", "Next.js"],
+    tools: ["Git"],
   },
   art: {
     tools: ["Krita", "Inkscape"],
@@ -37,8 +50,3 @@ const profile = {
 ```
 
 <!-- Profile ends -->
-
-<picture style="width:100%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omemoji&theme=github_dark" style="width:100%" >
-  <img alt="Dashboard stats of @omemoji" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omemoji&theme=github" style="width:100%" >
-</picture>
