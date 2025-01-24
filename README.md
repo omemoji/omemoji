@@ -23,6 +23,7 @@ const profile = {
   pc: {
     device: "ThinkPad E14 Gen 3",
     os: "Void Linux",
+    wm: "Sway",
   },
   programming: {
     languages: ["TypeScript", "Python"],
